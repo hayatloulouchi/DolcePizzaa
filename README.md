@@ -2,8 +2,14 @@
 PIZZA
 # DolcePizza - Restaurant Order Management System
 
-## Description
-DolcePizza is a restaurant management system built using Java, Spring Boot, and SQL Server. The application allows customers to place pizza orders online, track their status, and manage user accounts. This system aims to streamline the order and delivery process for customers and staff alike.
+## Objectif du site web
+
+Le site web **DolcePizza** est une plateforme en ligne dédiée à la commande de pizzas. Il permet aux utilisateurs de consulter le menu, de personnaliser leurs pizzas, et de passer des commandes en toute simplicité. Le site est conçu pour offrir une expérience utilisateur fluide et intuitive, avec un suivi en temps réel des commandes.
+
+### Fonctionnalités principales :
+- **Commande en ligne** : Les utilisateurs peuvent passer des commandes directement depuis le site.
+- **Suivi des commandes** : Les clients peuvent suivre l'état de leur commande en temps réel.
+- **Administration des commandes** : Les administrateurs peuvent gérer les commandes, voir les détails des commandes passées, et mettre à jour les statuts des commandes.
 
 ## Features
 - User registration and login system
